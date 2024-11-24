@@ -1,0 +1,2 @@
+# Cybersecurity
+Obsidian cybersecurity notes 
