@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "9b9c6019517570aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4125f98b18919ea6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8abdf9ff35acbc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/NTLM Authentication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NTLM Authentication"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6286420aec306b70",
+    "type": "split",
+    "children": [
+      {
+        "id": "c536294ae8c94356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbe5e331647ee14e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4257787cdf8da5c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "72f99c1d1f99dd30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "609bedfdd1501412",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ae7445f6edcf1d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1790d214739671ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows/Active Directory (AD).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Active Directory (AD)"
+            }
+          },
+          {
+            "id": "206a5305984bea15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wireshark Filters.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Wireshark Filters"
+            }
+          },
+          {
+            "id": "f4a25838637ccc28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfd7f2c70ca6f3a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wireshark Filters.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wireshark Filters"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "8abdf9ff35acbc77",
+  "lastOpenFiles": [
+    "Pasted image 20241123195217.png",
+    "Anotaciones.md",
+    "Windows/LDAP.md",
+    "Windows/MSRPC.md",
+    "Windows/NTLM Authentication.md",
+    "Windows/Active Directory (AD).md",
+    "Windows/AD Objects.md",
+    "Windows/DNS.md",
+    "Windows/Kerberos.md",
+    "Pasted image 20241115002447.png",
+    "Pasted image 20241115001232.png",
+    "Pasted image 20241115000041.png",
+    "Pasted image 20241114000623.png",
+    "Pasted image 20241109233122.png",
+    "Pasted image 20241109201623.png",
+    "Wireshark Filters.md",
+    "Windows",
+    "Linux/cURL.md",
+    "Linux/Comandos.md",
+    "Linux/Untitled",
+    "ISC2.md",
+    "Métodos de búsqueda.md",
+    "Reverse Shell.md",
+    "Roadmap and stuff.md",
+    "SSL.md",
+    "Bruteforce/Hydra.md",
+    "Bruteforce/Wordpress.md",
+    "Bruteforce/John the Ripper.md",
+    "CTFs/TryHackMe/- Machines.md",
+    "CTFs/TryHackMe/Machines.md",
+    "Escalamiento/GTFOBins.md",
+    "CMS.md",
+    "Scripts/Bash/Auto Nmap.md",
+    "Reconocimiento/Nmap.md",
+    "Bruteforce",
+    "Escalamiento",
+    "CTFs/TryHackMe/Writeups",
+    "Tables",
+    "CTFs/TryHackMe",
+    "CTFs",
+    "Scripts/Bash",
+    "Scripts",
+    "Pasted image 20231010223110.png",
+    "Pasted image 20231010223116.png",
+    "Pasted Image 20231005214233_543.png"
+  ]
+}
