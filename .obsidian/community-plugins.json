@@ -1,5 +1,14 @@
 [
   "obsidian-excalidraw-plugin",
   "dbfolder",
-  "dataview"
+  "dataview",
+  "obsidian-icon-folder",
+  "obsidian-file-color",
+  "colored-tags",
+  "file-explorer-note-count",
+  "code-styler",
+  "cmdr",
+  "obsidian-importer",
+  "obsidian-tasks-plugin",
+  "calendar"
 ]

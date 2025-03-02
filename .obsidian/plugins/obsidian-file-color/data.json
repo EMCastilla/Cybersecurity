@@ -1,0 +1,40 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "dNMmGnryqCz57_E7Reizw",
+      "name": "green",
+      "value": "#58df5a"
+    },
+    {
+      "id": "d3QlVNaZ7Gqqr71Q4Flvd",
+      "name": "red",
+      "value": "#df3a3a"
+    },
+    {
+      "id": "N3K48L9wogF78SJZYyuAT",
+      "name": "blue",
+      "value": "#2647c9"
+    },
+    {
+      "id": "kTuh6SRuBa0qag8yVOwAy",
+      "name": "yellow",
+      "value": "#e3d42b"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "CTFs/TryHackMe",
+      "color": "dNMmGnryqCz57_E7Reizw"
+    },
+    {
+      "path": "SOC Notes",
+      "color": "N3K48L9wogF78SJZYyuAT"
+    },
+    {
+      "path": "SOC Notes/Writeups THM",
+      "color": "dNMmGnryqCz57_E7Reizw"
+    }
+  ]
+}

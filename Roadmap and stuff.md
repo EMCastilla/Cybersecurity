@@ -1,3 +1,5 @@
+#todo/roadmap
+
 
 Lista de cosas a tener:
 
@@ -5,12 +7,11 @@ Lista de cosas a tener:
 - [ ] Perfil LinkedIn
 - [ ] Portfolio con proyectos
 - [ ] Landing page para presentar portfolio
-- [ ] 
 
+---
 
 Objetivos de certificaciones:
 
-- [ ] ISC2 Training
-- [ ] HTB Academy (Blue Team)
-- [ ] Google Cybersecurity Certificate
-- [ ] 
+- [ ] TCM PSAA
+- [ ] TryHack Me SOC Level 1
+- [ ] Tecnico Superior en Seguridad Informática

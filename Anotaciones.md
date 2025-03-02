@@ -30,5 +30,8 @@ Con este comando especificamos una cadena de agente de usuario y -L es utilizado
 
 hacer sección smbmap para enumerar servicios smb
 
-
+```python
+ print ("Hello World")
+ 
+```
 

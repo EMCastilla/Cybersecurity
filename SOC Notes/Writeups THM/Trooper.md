@@ -1,0 +1,55 @@
+#THM/SOC/CTF/Easy
+
+---
+
+*What kind of phishing campaign does APT X use as part of their TTPs?
+> [!info]
+> spear-phishing emails
+
+*What is the name of the malware used by APT X?
+```
+USBferry
+```
+
+*What is the malware's STIX ID?
+```
+malware--5d0ea014-1ce9-5d5c-bcc7-f625a07907d0
+```
+
+*With the use of a USB, what technique did APT X use for initial access?
+``
+```
+Replication through removable media
+```
+
+*What is the identity of APT X?
+```
+Tropic Trooper
+```
+
+*On OpenCTI, how many Attack Pattern techniques are associated with the APT?
+```
+39
+```
+
+*What is the name of the tool linked to the APT?
+```
+BITSAdmin
+```
+
+*Load up the Navigator. What is the sub-technique used by the APT under Valid Accounts?
+```
+Local Accounts
+```
+
+*Under what Tactics does the technique above fall?
+```
+Initial access, persistence, defense evasion and privilege escalation
+```
+
+*What technique is the group known for using under the tactic Collection?
+```
+Automated Collection
+```
+
+
