@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC Notes/Traffic Analysis.md",
+                "file": "SOC Notes/Sysmon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traffic Analysis"
+              "title": "Sysmon"
+            }
+          },
+          {
+            "id": "047dd743494cbeff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,53 +195,53 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "fda7476869623d1d",
+  "active": "047dd743494cbeff",
   "lastOpenFiles": [
+    "Pasted image 20250426202904.png",
+    "SOC Notes/TShark.md",
+    "SOC Notes/Endpoint Security.md",
+    "SOC Notes/LOG Processing.md",
+    "SOC Notes/NetworkMiner.md",
+    "SOC Notes/Sysinternals.md",
+    "SOC Notes/Sysmon.md",
+    "SOC Notes/Windows Event Logs.md",
+    "The Windows Logging Cheat Sheet (Windows 7 - Windows 2012).md",
+    "Pasted image 20250419165301.png",
+    "Pasted image 20250419164536.png",
+    "SOC Notes/Traffic Analysis - SNORT.md",
+    "Pasted image 20250419152107.png",
+    "Pasted image 20250419150144.png",
+    "Pasted image 20250419032559.png",
+    "Pasted image 20250419023836.png",
+    "Pasted image 20250419015610.png",
+    "Pasted image 20250419013523.png",
+    "Pasted image 20250419005253.png",
+    "Pasted image 20250419004223.png",
+    "SOC Notes/Core Windows Processes.md",
+    "SOC Notes/Writeups THM/TShark Challenge II - Directory.md",
+    "SOC Notes/TShark - CLI Wireshark Features.md",
+    "SOC Notes/Wireshark Traffic analysis.md",
+    "SOC Notes/Writeups THM/TShark Challenge I - Teamwork.md",
+    "SOC Notes/Wireshark.md",
+    "SOC Notes/Writeups THM/Zeek Exercises.md",
+    "SOC Notes/Writeups THM/SNORT Challenge.md",
+    "SOC Notes/Writeups THM/Snort Challenge - Live Attacks.md",
     "SOC Notes/Writeups THM/Trooper.md",
-    "SOC Notes/Traffic Analysis.md",
+    "SOC Notes/Zeek.md",
+    "SOC Notes/Brim.md",
     "Anotaciones.md",
+    "SnortCheatsheet-TryHackMe-1647343678716.pdf",
+    "SnortCheatsheet-TryHackMe-1647343678716.pdf.crdownload",
     "SOC Notes/Writeups THM",
     "CMS.md",
     "SOC Notes",
     "Roadmap and stuff.md",
     "SSL.md",
-    "Wireshark Filters.md",
-    "ISC2.md",
-    "CTFs/TryHackMe/Machines.md",
-    "CTFs/TryHackMe/- Machines.md",
-    "Scripts/Bash/Auto Nmap.md",
-    "Windows/Active Directory (AD).md",
-    "Windows/NTLM Authentication.md",
-    "README.md",
-    "Pasted image 20241123195217.png",
-    "Windows/LDAP.md",
-    "Windows/MSRPC.md",
-    "Windows/AD Objects.md",
-    "Windows/DNS.md",
-    "Windows/Kerberos.md",
-    "Pasted image 20241115002447.png",
-    "Pasted image 20241115001232.png",
-    "Pasted image 20241115000041.png",
-    "Pasted image 20241114000623.png",
-    "Pasted image 20241109233122.png",
-    "Pasted image 20241109201623.png",
     "Windows",
-    "Linux/cURL.md",
-    "Linux/Comandos.md",
     "Linux/Untitled",
-    "Métodos de búsqueda.md",
-    "Reverse Shell.md",
-    "Bruteforce/Hydra.md",
-    "Bruteforce/Wordpress.md",
-    "Bruteforce/John the Ripper.md",
     "Bruteforce",
     "Escalamiento",
     "CTFs/TryHackMe/Writeups",
-    "Tables",
-    "CTFs/TryHackMe",
-    "CTFs",
-    "Pasted image 20231010223110.png",
-    "Pasted image 20231010223116.png",
-    "Pasted Image 20231005214233_543.png"
+    "Tables"
   ]
 }

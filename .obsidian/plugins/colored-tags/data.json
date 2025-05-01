@@ -20,7 +20,8 @@
     "THM/SOC/CTF": 2,
     "THM/SOC/CTF/Easy": 1,
     "THM/SOC/Traffic": 3,
-    "THM/SOC/Traffic/Analysis": 1
+    "THM/SOC/Traffic/Analysis": 1,
+    "Example": 4
   },
   "_version": 3
 }
